@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>标题：{{ article.title }}</p>
+    <p>内容：{{ article.content }}</p>
+    <h3>评论</h3>
+    {% for comment in comments %}
+    <p>{{comment.detail}}</p>
+    {% endfor %}
+    <h3>添加评论</h3>
+    <form action="/add/comment" method="post">
+        <div>描述：<textarea name="detail"></textarea></div>
+        <input type="hidden" name="article_id" value="{{article.id}}">
+        <p><input type="submit"></p>
+    </form>
+
+    <p><a href="/list">返回</a></p>
+</body>
+</html>

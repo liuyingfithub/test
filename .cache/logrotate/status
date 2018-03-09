@@ -1,0 +1,20 @@
+logrotate state -- version 2
+"/home/ly/.cache/upstart/ssh-agent.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/bamfdaemon.log" 2018-3-1-10:1:12
+"/home/ly/.cache/upstart/window-stack-bridge.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/update-notifier-release.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/gpg-agent.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/hud.log" 2018-3-2-7:35:14
+"/home/ly/.cache/upstart/unity-settings-daemon.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/unity7.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/indicator-power.log" 2018-3-1-10:1:12
+"/home/ly/.cache/upstart/upstart-event-bridge.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/indicator-bluetooth.log" 2018-3-1-10:1:12
+"/home/ly/.cache/upstart/indicator-session.log" 2018-3-2-7:35:14
+"/home/ly/.cache/upstart/*.log" 2018-3-3-7:0:0
+"/home/ly/.cache/upstart/indicator-sound.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/gnome-keyring-ssh.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/unity-panel-service.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/indicator-keyboard.log" 2018-3-1-10:1:12
+"/home/ly/.cache/upstart/dbus.log" 2018-3-9-16:10:13
+"/home/ly/.cache/upstart/indicator-printers.log" 2018-3-1-10:1:12
