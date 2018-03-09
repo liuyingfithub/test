@@ -12,9 +12,9 @@
 
 # Command Line History (newest to oldest):
 :wq
+:!q
 :vsp t1.py
 :ew
-:!q
 :q
 :WQ
 
@@ -146,8 +146,8 @@
 
 > ~/tmp/tmp/code_auto.py
 	"	1	0
-	^	27	16
-	.	27	15
+	^	1	1
+	.	1	1
 	+	5	15
 	+	6	13
 	+	5	17
@@ -163,6 +163,7 @@
 	+	21	28
 	+	22	31
 	+	27	15
+	+	1	1
 
 > ~/tmp/ProjectDjangEx/ProjectDjangEx/settings.py
 	"	34	18
